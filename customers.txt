@@ -1,0 +1,3 @@
+Gayeon Kim;20150024754;Melon;2
+Seonwoong Kim;20150044754;Orange;1
+Scott Lee;20110115238;Apple;3
